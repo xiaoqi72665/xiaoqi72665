@@ -1,83 +1,70 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:312E81,100:7C3AED&height=190&section=header&text=不鹤&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Independent%20Software%20Builder&descSize=17&descAlignY=60" width="100%" alt="不鹤 profile banner" />
-  <br />
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Turning+ideas+into+useful+software.;Building+with+AI-assisted+development.;Desktop+apps+%7C+AI+tools+%7C+automation." alt="Typing introduction" />
-  <br />
-  <img src="https://img.shields.io/github/followers/xiaoqi72665?style=flat-square&logo=github&label=Followers&color=7C3AED" alt="GitHub followers" />
-  <img src="https://komarev.com/ghpvc/?username=xiaoqi72665&style=flat-square&color=7C3AED&label=Profile+views" alt="Profile views" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:312E81,100:7C3AED&height=200&section=header&text=BUHG&fontSize=64&fontColor=FFFFFF&fontAlignY=38&desc=INDEPENDENT%20SOFTWARE%20BUILDER&descSize=15&descAlignY=60" width="100%" alt="BUHG — Independent Software Builder" />
+  <p>
+    <strong>AI-assisted development · Desktop software · Automation</strong>
+  </p>
+  <p>
+    <a href="https://github.com/xiaoqi72665"><img src="https://img.shields.io/badge/GitHub-xiaoqi72665-181717?style=flat-square&logo=github" alt="GitHub profile" /></a>
+    <img src="https://komarev.com/ghpvc/?username=xiaoqi72665&style=flat-square&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views" />
+  </p>
 </div>
 
 ---
 
-## 👋 About Me
+## Hey, I'm BUHG 👋
 
-Hi, I'm **不鹤** — an independent software builder who enjoys turning ideas into practical products.
+I build software by combining product thinking, design, and AI-assisted development.
 
-I combine product thinking, design sensibility, and AI-assisted development to build tools that are useful, approachable, and enjoyable to use.
+I'm interested in turning ideas into useful, well-crafted tools — from desktop applications and AI-powered workflows to automation and creative software.
 
-- 🤖 Exploring AI applications, AI Agents, and MCP
-- 💻 Building desktop applications and developer tools
-- ⚙️ Interested in automation, open source, and creative workflows
-- 🎨 Care about thoughtful interfaces, smooth interactions, and product experience
+- 🤖 Exploring AI applications, agents, and MCP
+- 💻 Building desktop apps and developer tools
+- ⚙️ Making repetitive workflows simpler through automation
+- 🎨 Caring about clean interfaces and smooth user experiences
 
-> Make useful things. Keep them simple. Make them feel good to use.
+> **Build useful things. Keep them simple. Make them delightful to use.**
 
-## 🧭 What I Build
+## What I Work On
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="25%">
-        <h3>🤖 AI Tools</h3>
-        AI-powered apps<br />Agents & workflows
-      </td>
-      <td align="center" width="25%">
-        <h3>💻 Desktop Apps</h3>
-        Cross-platform tools<br />Productivity software
-      </td>
-      <td align="center" width="25%">
-        <h3>⚙️ Automation</h3>
-        Browser workflows<br />Developer utilities
-      </td>
-      <td align="center" width="25%">
-        <h3>🎨 Creative Tech</h3>
-        Media tools<br />Visual experiences
-      </td>
-    </tr>
-  </table>
-</div>
+| 🤖 AI & Intelligent Tools | 💻 Desktop Software | ⚙️ Automation |
+|:---:|:---:|:---:|
+| AI applications and agents | Electron and native integrations | Browser and workflow automation |
+| MCP and AI-assisted workflows | Productivity utilities | Tools that remove repetitive work |
 
-## 🛠️ Tools & Technologies
+## Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,rust,react,electron,nodejs,html,css,git,github,vscode&perline=6" alt="Tools and technologies" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,electron,rust,nodejs,html,css,git,github,vscode&perline=6" alt="Technologies and tools" />
 </div>
 
-## 📊 GitHub Overview
+## Featured Project
+
+### 🎧 [Mineradio](https://github.com/xiaoqi72665/Mineradio)
+
+An immersive Windows desktop music player that brings together weather-based radio, lyrics, particle visuals, and a 3D playlist experience.
+
+- Weather-aware listening and personalized radio
+- Lyrics stage and visual effects
+- 3D playlist shelf and desktop music experience
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=xiaoqi72665&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoqi72665&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-  <br />
-  <img width="65%" src="https://streak-stats.demolab.com?user=xiaoqi72665&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  <a href="https://github.com/xiaoqi72665/Mineradio">
+    <img src="https://img.shields.io/badge/Explore-Mineradio-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore Mineradio" />
+  </a>
 </div>
 
-## 🏆 Achievements
+## A Little More
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=xiaoqi72665&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=10" width="100%" alt="GitHub profile trophies" />
-</div>
+I'm always exploring new ideas, learning from open source, and building things that make everyday digital life better.
 
-## 🌌 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xiaoqi72665&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution activity graph" />
-</div>
+If something here catches your interest, feel free to explore the repositories or say hello.
 
 ---
 
 <div align="center">
-  <sub>Thanks for stopping by. Have a great day! ✨</sub>
+  <strong>Thanks for visiting ✨</strong>
+  <br />
+  <sub>Made with curiosity, creativity, and a little help from AI.</sub>
   <br /><br />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:312E81,100:111827&height=100&section=footer" width="100%" alt="Footer banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:312E81,100:0B1020&height=100&section=footer" width="100%" alt="BUHG profile footer" />
 </div>
