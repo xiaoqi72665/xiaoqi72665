@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Buhe — Independent Software Builder</title>
+  <desc id="desc">A dark navy and violet abstract banner for Buhe.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1020"/>
+      <stop offset="0.55" stop-color="#15152f"/>
+      <stop offset="1" stop-color="#24164a"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#818cf8"/>
+      <stop offset="1" stop-color="#c084fc"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#7c3aed" stop-opacity=".34"/>
+      <stop offset="1" stop-color="#7c3aed" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M42 0H0V42" fill="none" stroke="#a5b4fc" stroke-opacity=".07" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="300" rx="22" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="22" fill="url(#grid)"/>
+  <circle cx="1010" cy="142" r="270" fill="url(#glow)"/>
+  <g fill="none" stroke="url(#accent)" stroke-opacity=".48">
+    <circle cx="1000" cy="150" r="92" stroke-width="1.5"/>
+    <circle cx="1000" cy="150" r="132" stroke-width="1"/>
+    <circle cx="1000" cy="150" r="174" stroke-width="1" stroke-dasharray="3 9"/>
+    <path d="M825 150H1175M1000 0V300" stroke-opacity=".18"/>
+  </g>
+  <g fill="#c4b5fd">
+    <circle cx="1000" cy="58" r="4"/>
+    <circle cx="1092" cy="150" r="4"/>
+    <circle cx="908" cy="150" r="4"/>
+    <circle cx="1000" cy="242" r="4"/>
+  </g>
+  <path d="M80 232H148" stroke="url(#accent)" stroke-width="4" stroke-linecap="round"/>
+  <text x="80" y="148" fill="#f8fafc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="88" font-weight="700" letter-spacing="-3">Buhe</text>
+  <text x="86" y="190" fill="#c4b5fd" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="600" letter-spacing="4">INDEPENDENT SOFTWARE BUILDER</text>
+  <text x="168" y="240" fill="#cbd5e1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" letter-spacing="1.2">AI  ·  DESKTOP APPS  ·  AUTOMATION</text>
+  <text x="1118" y="48" text-anchor="end" fill="#a5b4fc" fill-opacity=".8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" letter-spacing="3">BUHE / 01</text>
+</svg>
