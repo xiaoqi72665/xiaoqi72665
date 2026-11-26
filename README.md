@@ -1,11 +1,9 @@
 <div align="center">
   <img src="./assets/buhe-banner.svg" width="100%" alt="Buhe — Independent Software Builder" />
   <br />
-  <a href="https://github.com/xiaoqi72665">
-    <img src="https://img.shields.io/badge/GitHub-xiaoqi72665-181717?style=flat-square&logo=github" alt="GitHub profile" />
-  </a>
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Software-6366F1?style=flat-square" alt="AI and software" />
-  <img src="https://img.shields.io/badge/Building-Useful%20Things-8B5CF6?style=flat-square" alt="Building useful things" />
+  <strong>AI-assisted development</strong> &nbsp;·&nbsp; <strong>Desktop software</strong> &nbsp;·&nbsp; <strong>Automation</strong>
+  <br /><br />
+  <a href="https://github.com/xiaoqi72665">GitHub · xiaoqi72665</a>
 </div>
 
 ---
@@ -34,7 +32,7 @@ I bring together product thinking, design, and AI-assisted development to make s
 ## Tools & Technologies
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,electron,rust,nodejs,html,css,git,github,vscode&perline=6" alt="Tools and technologies" />
+  <img src="./assets/tech-stack.svg" width="100%" alt="TypeScript, JavaScript, React, Electron, Rust, Node.js, HTML5, CSS3, Git, GitHub and VS Code" />
 </div>
 
 ## Selected Work
@@ -47,14 +45,7 @@ An immersive Windows desktop music player that brings together weather-based rad
 - Lyrics stage and visual effects
 - A 3D playlist shelf for a more immersive desktop experience
 
-<div align="center">
-  <a href="https://github.com/xiaoqi72665/Mineradio">
-    <img src="https://img.shields.io/badge/Explore-Mineradio-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore Mineradio" />
-  </a>
-  <a href="https://github.com/xiaoqi72665?tab=repositories">
-    <img src="https://img.shields.io/badge/More-Projects-334155?style=for-the-badge&logo=github&logoColor=white" alt="More projects" />
-  </a>
-</div>
+[Explore Mineradio →](https://github.com/xiaoqi72665/Mineradio) · [More projects →](https://github.com/xiaoqi72665?tab=repositories)
 
 ## A Little More
 
